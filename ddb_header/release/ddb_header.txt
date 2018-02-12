@@ -1,0 +1,8 @@
+-*-   DDB_Header 1.0   *   (c)   Gazlan, 2015   -*-
+
+DDB files header printer
+
+Usage: ddb_header.com [wildcards]
+
+complains_n_suggestions direct to gazlan@yandex.ru
+
